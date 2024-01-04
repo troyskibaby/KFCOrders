@@ -1,0 +1,83 @@
+[
+    {
+      "id": "1",
+      "category": "Chicken",
+      "items": [
+        {
+          "id": "1",
+          "title": "Original Recipe Chicken",
+          "description": "Fried chicken with KFC's secret blend of 11 herbs and spices.",
+          "price": 5.99,
+          "image": "https://brand-uk.assets.kfc.co.uk/2022-11/MOBORDER_3_PIECE_ORIGINAL_RECIPE_CHICKEN_1200x800.jpg?VersionId=j_QBPesaDI73jniscP4d1ioP2Zn1.YzG"
+        },
+        {
+          "id": "2",
+          "title": "Extra Crispy Chicken",
+          "description": "Crispy and flavorful fried chicken with a special coating.",
+          "price": 6.99,
+          "image": "https://brand-uk.assets.kfc.co.uk/2022-11/MOBORDER_4_PIECE_BONELESS_WITH_DIP_1200x800.jpg?VersionId=9VjJwIQ.lDwa8aNNUrOMY_QUKM5nZVDK"
+        },
+        {
+          "id": "3",
+          "title": "Hot Wings",
+          "description": "Spicy and delicious chicken wings.",
+          "price": 4.99,
+          "image": "https://brand-uk.assets.kfc.co.uk/2022-11/MOBORDER_2_HOT_WINGS_1200x800.jpg?VersionId=BXfcD1Gylaa7voIxDGiLX9uHmdchNAGP"
+        }
+      ]
+    },
+    {
+      "id": "2",
+      "category": "Sides",
+      "items": [
+        {
+          "id": "4",
+          "title": "Mashed Potatoes",
+          "description": "Creamy mashed potatoes with gravy.",
+          "price": 2.99,
+          "image": "https://brand-uk.assets.kfc.co.uk/2022-11/MOBORDER_LARGE_CREAMY_MASH_1200x800.jpg?VersionId=Iye12T1pQpAJZwCaVITaBcGrEBAJnfIQ"
+        },
+        {
+          "id": "5",
+          "title": "Cole Slaw",
+          "description": "Fresh and crunchy coleslaw.",
+          "price": 1.99,
+          "image": "https://brand-uk.assets.kfc.co.uk/2022-11/MOBORDER_LARGE_COLESLAW_1200x800.jpg?VersionId=VqN1zFixdxD4EWnTyD5IlpHyABBtTEef"
+        },
+        {
+          "id": "6",
+          "title": "Southern Rice",
+          "description": "A regular portion of our mildly spicy rice with vegetables. Pure southern comfort.",
+          "price": 1.49,
+          "image": "https://brand-uk.assets.kfc.co.uk/2022-11/MOBORDER_REGULAR_SOUTHERN_RICE_1200x800.jpg?VersionId=StTpHYxBi8njVswv0VRSY1sut1D0P7hb"
+        }
+      ]
+    },
+    {
+      "id": "3",
+      "category": "Beverages",
+      "items": [
+        {
+          "id": "7",
+          "title": "Pepsi Max",
+          "description": "MAXIMUM TASTE, NO SUGAR. A bold and refreshing fizzy drink.",
+          "price": 1.99,
+          "image": "https://brand-uk.assets.kfc.co.uk/2022-10/MOBORDER_REG_PEPSI_MAX_1200x800.jpg?VersionId=mPBfCqOvjm3LlOZ_0.kElGJ3G4UuK.Mw"
+        },
+        {
+          "id": "8",
+          "title": "Iced Tea",
+          "description": "Brewed from real leaves so the taste is always pure and satisfying.",
+          "price": 2.49,
+          "image": "https://brand-uk.assets.kfc.co.uk/2022-11/MOBORDER_REG_LIPTON_PEACH_1200x800.jpg?VersionId=BPsqrj7..B6auP7Csr3iZkkmuhiaqSmS"
+        },
+        {
+          "id": "9",
+          "title": "Sparkling Water",
+          "description": "Crisp refreshing taste. Delivered chilled.",
+          "price": 2.29,
+          "image": "https://brand-uk.assets.kfc.co.uk/2022-10/MOBORDER_SPARKLING_WATER_1200x800%20%281%29.jpg?VersionId=zkE70l2wfCQvOKLgQ0SZiAJr6dVp5MKw"
+        }
+      ]
+    }
+  ]
